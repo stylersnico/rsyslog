@@ -75,7 +75,7 @@ wget https://raw.githubusercontent.com/stylersnico/rsyslog/master/etc/rsyslog-cl
 rm rsyslog.conf &amp;&amp; mv rsyslog-client.conf rsyslog.conf</pre>
 &nbsp;
 
-You can add support for NGINX, PHP 7 et PHP 5 logs with this command:
+You can add support for NGINX, PHP 7 and PHP 5 logs with this command:
 <pre>cd /etc/rsyslog.d/
 wget https://raw.githubusercontent.com/stylersnico/rsyslog/master/etc/rsyslog.d/lemp.conf</pre>
 &nbsp;
