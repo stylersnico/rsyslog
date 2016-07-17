@@ -37,7 +37,7 @@ Debian 8
 
 ##Installation
 
-A french version of this is available here: https://www.abyssproject.net/2016/08/collection-rsyslog-librenms/
+A french version of this is available here: https://www.abyssproject.net/2016/07/collection-rsyslog-librenms/
 
 <h3><span style="text-decoration: underline;">LibreNMS Server</span></h3>
 
