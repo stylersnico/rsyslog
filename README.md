@@ -1,7 +1,7 @@
 Rsyslog Configuration for LibreNMS
 ==================================
 
-##License
+## License
 Repository which helps you to configure Rsyslog for LibreNMS and your clients.
 
 The license doesn't apply to external configuration files, see comments in each files to see relative license.
@@ -22,20 +22,20 @@ You should have received a copy of the GNU General Public License
 along with this script.  If not, see <http://www.gnu.org/licenses/gpl.txt>
 
 
-##About this repo
+## About this repo
 This repository helps you to configure Rsyslog for LibreNMS and your clients.
 
-##Dependencies
+## Dependencies
 Rsyslog
 
 Port 554 (udp/tcp) open on LibreNMS server
 
 
-##Designed for
+## Designed for
 Debian 8
 
 
-##Installation
+## Installation
 
 A french version of this is available here: https://www.abyssproject.net/2016/07/collection-rsyslog-librenms/
 
