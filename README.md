@@ -28,7 +28,7 @@ This repository helps you to configure Rsyslog for LibreNMS and your clients.
 ## Dependencies
 Rsyslog
 
-Port 554 (udp/tcp) open on LibreNMS server
+Port 514 (udp/tcp) open on LibreNMS server
 
 
 ## Designed for
